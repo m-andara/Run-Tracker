@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Run Tracker</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFieWNha2V6IiwiYSI6ImNqdm51bmJvYTFia3M0YXFqNWxhejJ5aHAifQ.aSp9XCMG0NOCPG95iFtsXw</string>
+    <string name="user_location_permission_not_granted">Location permissions are needed to access app features. You can turn on location permissions in app settings.</string>
+    <string name="user_location_permission_explanation">We need your location to track your movements during your run and display it on the map.</string>
+    <string name="screen_shot">screen shot</string>
+    <string name="Miles">Mi</string>
+    <string name="Kilometers">Km</string>
+    <string name="start_stop_fab">start and stop fab</string>
+</resources>
